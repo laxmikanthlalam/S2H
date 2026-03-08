@@ -14,3 +14,5 @@ public class PreSuf {
             System.out.println("No");
     }
 }
+//Alternate methods are 1.indexOf() for prefix and lastindexOf() for suffix
+// 2.substring() method
